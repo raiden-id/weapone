@@ -1,2 +1,2 @@
-Tutorial 
-> [ https://github.com/Ignitetechnologies/Mindmap/ ]
+Exploiting by IMG
+[https://github.com/Ignitetechnologies/Mindmap]
